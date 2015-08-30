@@ -19,7 +19,7 @@
 
 设置两个变量即可：
 
-- ALAUDA_HOST: 掐面Redmine服务的域名
+- ALAUDA_HOST: 前面Redmine服务的域名
 - ALAUDA_PORT: 前面Redmine服务的端口号
 
 ![](images/step3.png)
